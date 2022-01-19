@@ -1,4 +1,4 @@
-# Error Handling
+# 06 Error Handling
 
 def sum(num1, num2):
     try:

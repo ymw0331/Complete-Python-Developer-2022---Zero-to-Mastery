@@ -1,4 +1,4 @@
-# Decorators, function that wrap another function to enhance it
+# 05 Decorators, function that wrap another function to enhance it
 
 
 def my_decorator(func):

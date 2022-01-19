@@ -1,4 +1,4 @@
-# Decorators Pattern
+# 05 Decorators Pattern
 
 def my_decorator(func):
     def wrap_func(*args, **kwargs):
